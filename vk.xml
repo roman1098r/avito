@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2021-00-05 14:13">
+<yml_catalog date="2021-00-09 15:12">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -18,7 +18,7 @@
 		<offers>
 			<offer id="0001" available="true">
 				<name>iPhone 12 PRO MAX 512GB</name>
-				<price>128490</price>
+				<price>123990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -56,7 +56,7 @@
 			</offer>
 			<offer id="0011" available="true">
 				<name>iPhone 12 PRO MAX 512GB</name>
-				<price>128490</price>
+				<price>123990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -94,7 +94,7 @@
 			</offer>
 			<offer id="0021" available="true">
 				<name>iPhone 12 PRO MAX 512GB</name>
-				<price>129490</price>
+				<price>123490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -132,7 +132,7 @@
 			</offer>
 			<offer id="0031" available="true">
 				<name>iPhone 12 PRO MAX 512GB</name>
-				<price>127990</price>
+				<price>123990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -170,7 +170,7 @@
 			</offer>
 			<offer id="0041" available="true">
 				<name>iPhone 12 PRO MAX 256GB</name>
-				<price>111990</price>
+				<price>106490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -208,7 +208,7 @@
 			</offer>
 			<offer id="0051" available="true">
 				<name>iPhone 12 PRO MAX 256GB</name>
-				<price>111990</price>
+				<price>106490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -247,7 +247,7 @@
 			</offer>
 			<offer id="0061" available="true">
 				<name>iPhone 12 PRO MAX 256GB</name>
-				<price>112990</price>
+				<price>107990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -285,7 +285,7 @@
 			</offer>
 			<offer id="0071" available="true">
 				<name>iPhone 12 PRO MAX 256GB</name>
-				<price>112490</price>
+				<price>106490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -323,7 +323,7 @@
 			</offer>
 			<offer id="0081" available="true">
 				<name>iPhone 12 PRO MAX 128GB</name>
-				<price>104490</price>
+				<price>98490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -362,7 +362,7 @@
 			</offer>
 			<offer id="0091" available="true">
 				<name>iPhone 12 PRO MAX 128GB</name>
-				<price>104490</price>
+				<price>96990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -400,7 +400,7 @@
 			</offer>
 			<offer id="0101" available="true">
 				<name>iPhone 12 PRO MAX 128GB</name>
-				<price>104490</price>
+				<price>100490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -438,7 +438,7 @@
 			</offer>
 			<offer id="0111" available="true">
 				<name>iPhone 12 PRO MAX 128GB</name>
-				<price>104490</price>
+				<price>98490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -476,7 +476,7 @@
 			</offer>
 			<offer id="0121" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>124990</price>
+				<price>119990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -514,7 +514,7 @@
 			</offer>
 			<offer id="0131" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>124990</price>
+				<price>119990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -552,7 +552,7 @@
 			</offer>
 			<offer id="0141" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>124990</price>
+				<price>119990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -590,7 +590,7 @@
 			</offer>
 			<offer id="0151" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>124990</price>
+				<price>119990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -628,7 +628,7 @@
 			</offer>
 			<offer id="0161" available="true">
 				<name>iPhone 12 PRO 256GB</name>
-				<price>108990</price>
+				<price>104790</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -666,7 +666,7 @@
 			</offer>
 			<offer id="0171" available="true">
 				<name>iPhone 12 PRO 256GB</name>
-				<price>109990</price>
+				<price>104790</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -704,7 +704,7 @@
 			</offer>
 			<offer id="0181" available="true">
 				<name>iPhone 12 PRO 256GB</name>
-				<price>109990</price>
+				<price>105490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -742,7 +742,7 @@
 			</offer>
 			<offer id="0191" available="true">
 				<name>iPhone 12 PRO 256GB</name>
-				<price>108990</price>
+				<price>104790</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -780,7 +780,7 @@
 			</offer>
 			<offer id="0201" available="true">
 				<name>iPhone 12 PRO 128GB</name>
-				<price>98490</price>
+				<price>94190</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -818,7 +818,7 @@
 			</offer>
 			<offer id="0211" available="true">
 				<name>iPhone 12 PRO 128GB</name>
-				<price>98490</price>
+				<price>94190</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -856,7 +856,7 @@
 			</offer>
 			<offer id="0221" available="true">
 				<name>iPhone 12 PRO 128GB</name>
-				<price>99490</price>
+				<price>95490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -894,7 +894,7 @@
 			</offer>
 			<offer id="0231" available="true">
 				<name>iPhone 12 PRO 128GB</name>
-				<price>98490</price>
+				<price>94190</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1122,7 +1122,7 @@
 			</offer>
 			<offer id="0291" available="true">
 				<name>iPhone 12 128GB</name>
-				<price>74990</price>
+				<price>76490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1160,7 +1160,7 @@
 			</offer>
 			<offer id="0301" available="true">
 				<name>iPhone 12 128GB</name>
-				<price>74990</price>
+				<price>76490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1198,7 +1198,7 @@
 			</offer>
 			<offer id="0311" available="true">
 				<name>iPhone 12 128GB</name>
-				<price>74990</price>
+				<price>76490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1236,7 +1236,7 @@
 			</offer>
 			<offer id="0321" available="true">
 				<name>iPhone 12 128GB</name>
-				<price>74990</price>
+				<price>76490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1274,7 +1274,7 @@
 			</offer>
 			<offer id="0331" available="true">
 				<name>iPhone 12 128GB</name>
-				<price>74990</price>
+				<price>76490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1312,7 +1312,7 @@
 			</offer>
 			<offer id="0341" available="true">
 				<name>iPhone 12 64GB</name>
-				<price>66990</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1350,7 +1350,7 @@
 			</offer>
 			<offer id="0351" available="true">
 				<name>iPhone 12 64GB</name>
-				<price>66990</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1388,7 +1388,7 @@
 			</offer>
 			<offer id="0361" available="true">
 				<name>iPhone 12 64GB</name>
-				<price>66990</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1426,7 +1426,7 @@
 			</offer>
 			<offer id="0371" available="true">
 				<name>iPhone 12 64GB</name>
-				<price>66990</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1464,7 +1464,7 @@
 			</offer>
 			<offer id="0381" available="true">
 				<name>iPhone 12 64GB</name>
-				<price>66990</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1692,7 +1692,7 @@
 			</offer>
 			<offer id="0441" available="true">
 				<name>iPhone 12 mini 128GB</name>
-				<price>64990</price>
+				<price>64190</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1730,7 +1730,7 @@
 			</offer>
 			<offer id="0451" available="true">
 				<name>iPhone 12 mini 128GB</name>
-				<price>64990</price>
+				<price>64190</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1768,7 +1768,7 @@
 			</offer>
 			<offer id="0461" available="true">
 				<name>iPhone 12 mini 128GB</name>
-				<price>64990</price>
+				<price>64190</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1806,7 +1806,7 @@
 			</offer>
 			<offer id="0471" available="true">
 				<name>iPhone 12 mini 128GB</name>
-				<price>64990</price>
+				<price>64690</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1844,7 +1844,7 @@
 			</offer>
 			<offer id="0481" available="true">
 				<name>iPhone 12 mini 128GB</name>
-				<price>64990</price>
+				<price>64690</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1882,7 +1882,7 @@
 			</offer>
 			<offer id="0491" available="true">
 				<name>iPhone 12 mini 64GB</name>
-				<price>60490</price>
+				<price>59490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1920,7 +1920,7 @@
 			</offer>
 			<offer id="0501" available="true">
 				<name>iPhone 12 mini 64GB</name>
-				<price>60490</price>
+				<price>59490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1958,7 +1958,7 @@
 			</offer>
 			<offer id="0511" available="true">
 				<name>iPhone 12 mini 64GB</name>
-				<price>60490</price>
+				<price>59490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1996,7 +1996,7 @@
 			</offer>
 			<offer id="0521" available="true">
 				<name>iPhone 12 mini 64GB</name>
-				<price>60490</price>
+				<price>59490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2034,7 +2034,7 @@
 			</offer>
 			<offer id="0531" available="true">
 				<name>iPhone 12 mini 64GB</name>
-				<price>60490</price>
+				<price>59490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
