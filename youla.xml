@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2021-00-26 20:42">
+<yml_catalog date="2021-00-28 12:50">
 	<shop>
 		<offers>
 			<offer id="0001">
@@ -7,7 +7,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>115990</price>
+				<price>116990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -93,7 +93,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>116490</price>
+				<price>116990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -136,7 +136,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>116490</price>
+				<price>116990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -179,7 +179,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>100990</price>
+				<price>99490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -222,7 +222,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>99990</price>
+				<price>99490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -265,7 +265,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>99990</price>
+				<price>99490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -308,7 +308,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>100990</price>
+				<price>99490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -351,7 +351,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>94990</price>
+				<price>93490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -437,7 +437,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>94990</price>
+				<price>93490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -480,7 +480,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>93490</price>
+				<price>92490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO MAX 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -523,7 +523,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>116490</price>
+				<price>110490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -566,7 +566,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>114990</price>
+				<price>110490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -609,7 +609,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>116490</price>
+				<price>110490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -652,7 +652,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>113990</price>
+				<price>110490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -695,7 +695,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>93990</price>
+				<price>92490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -738,7 +738,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>93490</price>
+				<price>92490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -824,7 +824,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>93490</price>
+				<price>92990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -867,7 +867,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>83990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -910,7 +910,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>85990</price>
+				<price>83990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -953,7 +953,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>84990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -996,7 +996,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>85490</price>
+				<price>83990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -1254,7 +1254,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71490</price>
+				<price>70490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
@@ -1297,7 +1297,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71490</price>
+				<price>70490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -1340,7 +1340,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71490</price>
+				<price>70490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
@@ -1383,7 +1383,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71490</price>
+				<price>70490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
@@ -1426,7 +1426,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71490</price>
+				<price>70490</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
@@ -1469,7 +1469,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>66990</price>
+				<price>65990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
@@ -1512,7 +1512,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>66990</price>
+				<price>65990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -1555,7 +1555,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>66990</price>
+				<price>65990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
@@ -1598,7 +1598,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>66990</price>
+				<price>65990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
@@ -1641,7 +1641,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>66990</price>
+				<price>65990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
@@ -1684,7 +1684,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>75990</price>
+				<price>73990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
@@ -1727,7 +1727,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>75990</price>
+				<price>73990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -1770,7 +1770,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>75990</price>
+				<price>73990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
@@ -1813,7 +1813,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>75990</price>
+				<price>73990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
@@ -1856,7 +1856,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>75990</price>
+				<price>73990</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
@@ -2157,7 +2157,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>58790</price>
+				<price>57790</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 mini 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -2243,7 +2243,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>59190</price>
+				<price>58790</price>
 				<phone>+7 904 000-97-79</phone>
 				<name>iPhone 12 mini 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
