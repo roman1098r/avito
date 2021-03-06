@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2021-02-06 17:16">
+<yml_catalog date="2021-02-06 17:22">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -476,7 +476,7 @@
 			</offer>
 			<offer id="0121" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>111990</price>
+				<price>110490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -514,7 +514,7 @@
 			</offer>
 			<offer id="0131" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>111990</price>
+				<price>110490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -552,7 +552,7 @@
 			</offer>
 			<offer id="0141" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>111990</price>
+				<price>110490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -590,7 +590,7 @@
 			</offer>
 			<offer id="0151" available="true">
 				<name>iPhone 12 PRO 512GB</name>
-				<price>111990</price>
+				<price>110490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
