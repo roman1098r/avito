@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2021-04-12 17:17">
+<yml_catalog date="2021-04-21 17:28">
 	<shop>
 		<offers>
 			<offer id="0001">
@@ -7,7 +7,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>111990</price>
+				<price>110990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -50,7 +50,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>112490</price>
+				<price>111490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -93,7 +93,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>112490</price>
+				<price>111490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -136,7 +136,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>112490</price>
+				<price>111490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -179,7 +179,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>94490</price>
+				<price>93490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -222,7 +222,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>94490</price>
+				<price>93490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -265,7 +265,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>94490</price>
+				<price>93490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -308,7 +308,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>94490</price>
+				<price>93490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -351,7 +351,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>85490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -394,7 +394,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>85490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -437,7 +437,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>85490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -480,7 +480,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>85490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO MAX 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -523,7 +523,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>101490</price>
+				<price>100490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -566,7 +566,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>101490</price>
+				<price>100490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -609,7 +609,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>101490</price>
+				<price>100490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -652,7 +652,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>100990</price>
+				<price>99990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -695,7 +695,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>87990</price>
+				<price>86990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -738,7 +738,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>88490</price>
+				<price>87490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -781,7 +781,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>87790</price>
+				<price>86790</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -824,7 +824,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>88190</price>
+				<price>87190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -867,7 +867,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>80990</price>
+				<price>79990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
@@ -910,7 +910,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>81290</price>
+				<price>80290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
@@ -953,7 +953,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>80690</price>
+				<price>79690</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
@@ -996,7 +996,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>81290</price>
+				<price>80290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 PRO 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
@@ -1039,7 +1039,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>78990</price>
+				<price>77990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
@@ -1082,7 +1082,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>78990</price>
+				<price>77990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -1125,7 +1125,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>78990</price>
+				<price>77990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
@@ -1168,7 +1168,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>78990</price>
+				<price>77990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
@@ -1211,7 +1211,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>78990</price>
+				<price>77990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
@@ -1254,7 +1254,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>68490</price>
+				<price>67990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
@@ -1297,7 +1297,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>68990</price>
+				<price>68490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -1340,7 +1340,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>68490</price>
+				<price>67990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
@@ -1383,7 +1383,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>68490</price>
+				<price>67990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
@@ -1426,7 +1426,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>68990</price>
+				<price>68490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
@@ -1684,7 +1684,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>69490</price>
+				<price>68490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
@@ -1727,7 +1727,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>68490</price>
+				<price>67490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -1770,7 +1770,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>68490</price>
+				<price>67490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
@@ -1813,7 +1813,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>67490</price>
+				<price>66490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
@@ -1856,7 +1856,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>67490</price>
+				<price>66490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
@@ -1899,7 +1899,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>61990</price>
+				<price>61490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
@@ -1942,7 +1942,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>61990</price>
+				<price>61490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
@@ -1985,7 +1985,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>60690</price>
+				<price>60190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
@@ -2028,7 +2028,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>61490</price>
+				<price>60990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
@@ -2071,7 +2071,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>61490</price>
+				<price>60990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 12 mini 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
@@ -2329,7 +2329,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>95490</price>
+				<price>94490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
@@ -2372,7 +2372,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>95490</price>
+				<price>94490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
@@ -2416,7 +2416,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>95490</price>
+				<price>94490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
@@ -2457,7 +2457,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>95490</price>
+				<price>94490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
@@ -2501,7 +2501,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>87990</price>
+				<price>87490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
@@ -2544,7 +2544,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>87990</price>
+				<price>87490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
@@ -2588,7 +2588,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>87990</price>
+				<price>87490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
@@ -2629,7 +2629,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>87990</price>
+				<price>87490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO MAX 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
@@ -2845,7 +2845,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
@@ -2888,7 +2888,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
@@ -2932,7 +2932,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
@@ -2973,7 +2973,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 512GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
@@ -3017,7 +3017,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71990</price>
+				<price>71490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Green-0.png</picture>
@@ -3060,7 +3060,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71990</price>
+				<price>71490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Space-Gray-0.png</picture>
@@ -3104,7 +3104,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71990</price>
+				<price>71490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Gold-1.png</picture>
@@ -3145,7 +3145,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71990</price>
+				<price>71490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 PRO 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/IPhone-11-PRO-MAX-Silver-0.png</picture>
@@ -3361,7 +3361,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>62990</price>
+				<price>61990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-1.png</picture>
@@ -3403,7 +3403,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>62990</price>
+				<price>61990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-1.png</picture>
@@ -3445,7 +3445,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>62990</price>
+				<price>61990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-1.png</picture>
@@ -3487,7 +3487,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>62990</price>
+				<price>61990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-1.png</picture>
@@ -3529,7 +3529,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>62990</price>
+				<price>61990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-1.png</picture>
@@ -3571,7 +3571,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>62990</price>
+				<price>61990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-1.png</picture>
@@ -3613,7 +3613,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>53390</price>
+				<price>52890</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Space-Gray-1.png</picture>
@@ -3655,7 +3655,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>53690</price>
+				<price>53190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Silver-1.png</picture>
@@ -3697,7 +3697,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>52990</price>
+				<price>52490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-RED-1.png</picture>
@@ -3739,7 +3739,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>53490</price>
+				<price>52990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Green-1.png</picture>
@@ -3781,7 +3781,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>53790</price>
+				<price>53290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Violet-1.png</picture>
@@ -3823,7 +3823,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>53590</price>
+				<price>53090</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone 11 128GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-11-Yellow-1.png</picture>
@@ -4117,7 +4117,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>41990</price>
+				<price>41490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone SE 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-1.jpg</picture>
@@ -4161,7 +4161,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>41990</price>
+				<price>41490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone SE 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-1.jpg</picture>
@@ -4205,7 +4205,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>41990</price>
+				<price>41490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone SE 256GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-1.jpg</picture>
@@ -4381,7 +4381,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>33290</price>
+				<price>33790</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone SE 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-CERNYI-1.jpg</picture>
@@ -4425,7 +4425,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>33790</price>
+				<price>34290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone SE 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-BELYI-1.jpg</picture>
@@ -4469,7 +4469,7 @@
 				<youlaSubcategoryId>1202</youlaSubcategoryId>
 				<phone_brand>8889</phone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>33790</price>
+				<price>34290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPhone SE 64GB</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPhone-SE-PRODUCTRED-1.jpg</picture>
@@ -4513,7 +4513,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>111490</price>
+				<price>110490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 1TB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -4556,7 +4556,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>111490</price>
+				<price>110490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 1TB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -4599,7 +4599,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>103490</price>
+				<price>102490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 512GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -4642,7 +4642,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>103490</price>
+				<price>102490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 512GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -4685,7 +4685,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>92490</price>
+				<price>91490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 256GB WiFi+Cellular
 </name>
@@ -4729,7 +4729,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>92490</price>
+				<price>91490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 256GB WiFi+Cellular
 </name>
@@ -4773,7 +4773,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 128GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -4816,7 +4816,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 128GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -4859,7 +4859,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>92490</price>
+				<price>91490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 1TB WiFi</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -4900,7 +4900,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>92490</price>
+				<price>91490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 1TB WiFi</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -4941,7 +4941,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>85490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 512GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -4982,7 +4982,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>86490</price>
+				<price>85490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 512GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5023,7 +5023,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>81490</price>
+				<price>80490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 256GB WiFi 
 </name>
@@ -5065,7 +5065,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>81490</price>
+				<price>80490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5106,7 +5106,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>76490</price>
+				<price>75490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 128GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5147,7 +5147,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>76490</price>
+				<price>75490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 12,9'' 2020 128GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5188,7 +5188,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>113490</price>
+				<price>112490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 1TB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5231,7 +5231,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>113490</price>
+				<price>112490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 1TB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5274,7 +5274,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>108490</price>
+				<price>107490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 512GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5317,7 +5317,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>108490</price>
+				<price>107490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 512GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5360,7 +5360,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>92490</price>
+				<price>91490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Pad PRO 11'' 2020 256GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5403,7 +5403,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>92490</price>
+				<price>91490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Pad PRO 11'' 2020 256GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5446,7 +5446,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>75490</price>
+				<price>74490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 128GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5489,7 +5489,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>75490</price>
+				<price>74490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 128GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5532,7 +5532,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>96490</price>
+				<price>95490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 1TB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5573,7 +5573,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>96490</price>
+				<price>95490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 1TB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5614,7 +5614,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 512GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5655,7 +5655,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>83490</price>
+				<price>82490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 512GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5696,7 +5696,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71490</price>
+				<price>70490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5737,7 +5737,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>71490</price>
+				<price>70490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5778,7 +5778,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>67490</price>
+				<price>66490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 128GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5819,7 +5819,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>67490</price>
+				<price>66490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad PRO 11'' 2020 128GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Pro-2020-SEREBRISTYI-1.jpg</picture>
@@ -5860,7 +5860,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>73490</price>
+				<price>72490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi+Cellular </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-Wi-Fi-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -5901,7 +5901,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>73490</price>
+				<price>72490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi+Cellular </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-SEREBRISTYI-1.jpg</picture>
@@ -5942,7 +5942,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>73490</price>
+				<price>72490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi+Cellular </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ROZOVOE-ZOLOTO-1.jpg</picture>
@@ -5982,7 +5982,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>73490</price>
+				<price>72490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi+Cellular </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ZELENYI-1.jpg</picture>
@@ -6023,7 +6023,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>73490</price>
+				<price>72490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi+Cellular </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-GOLUBOE-NEBO-1.jpg</picture>
@@ -6064,7 +6064,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>57490</price>
+				<price>56490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-Wi-Fi-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -6105,7 +6105,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>57490</price>
+				<price>56490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-SEREBRISTYI-1.jpg</picture>
@@ -6146,7 +6146,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>57490</price>
+				<price>56490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ROZOVOE-ZOLOTO-1.jpg</picture>
@@ -6186,7 +6186,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>57490</price>
+				<price>56490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ZELENYI-1.jpg</picture>
@@ -6227,7 +6227,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>57490</price>
+				<price>56490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-GOLUBOE-NEBO-1.jpg</picture>
@@ -6268,7 +6268,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>64990</price>
+				<price>63990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-Wi-Fi-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -6307,7 +6307,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>64990</price>
+				<price>63990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-SEREBRISTYI-1.jpg</picture>
@@ -6346,7 +6346,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>64990</price>
+				<price>63990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ROZOVOE-ZOLOTO-1.jpg</picture>
@@ -6384,7 +6384,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>64990</price>
+				<price>63990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ZELENYI-1.jpg</picture>
@@ -6423,7 +6423,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>64990</price>
+				<price>63990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 256GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-GOLUBOE-NEBO-1.jpg</picture>
@@ -6462,7 +6462,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>47490</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-Wi-Fi-2020-SERYI-KOSMOS-1.jpg</picture>
@@ -6501,7 +6501,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>47490</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-SEREBRISTYI-1.jpg</picture>
@@ -6540,7 +6540,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>47490</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ROZOVOE-ZOLOTO-1.jpg</picture>
@@ -6578,7 +6578,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>47490</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-ZELENYI-1.jpg</picture>
@@ -6617,7 +6617,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>47490</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad Air 2020 64GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-Air-2020-GOLUBOE-NEBO-1.jpg</picture>
@@ -6656,7 +6656,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>44490</price>
+				<price>46980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 128GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SERYI-KOSMOS-1.jpg</picture>
@@ -6699,7 +6699,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>44490</price>
+				<price>46980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 128GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SEREBRISTYI-1.jpg</picture>
@@ -6742,7 +6742,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>44490</price>
+				<price>46980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 128GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-ZOLOTOI-1.jpg</picture>
@@ -6785,7 +6785,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>40490</price>
+				<price>36490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 32 WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SERYI-KOSMOS-1.jpg</picture>
@@ -6828,7 +6828,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>40490</price>
+				<price>36490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 32 WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SEREBRISTYI-1.jpg</picture>
@@ -6871,7 +6871,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>40490</price>
+				<price>36490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 32 WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-ZOLOTOI-1.jpg</picture>
@@ -6914,7 +6914,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>38000</price>
+				<price>40490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 128GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SERYI-KOSMOS-1.jpg</picture>
@@ -6955,7 +6955,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>38000</price>
+				<price>40490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 128GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SEREBRISTYI-1.jpg</picture>
@@ -6996,7 +6996,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>38000</price>
+				<price>40490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 128GB WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-ZOLOTOI-1.jpg</picture>
@@ -7037,7 +7037,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>30990</price>
+				<price>33480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 32 WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SERYI-KOSMOS-1.jpg</picture>
@@ -7078,7 +7078,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>30990</price>
+				<price>33480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 32 WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-SEREBRISTYI-1.jpg</picture>
@@ -7119,7 +7119,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>30990</price>
+				<price>33480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad 8 2020 32 WiFi </name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-102-ZOLOTOI-1.jpg</picture>
@@ -7160,7 +7160,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>52490</price>
+				<price>54980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 256GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-SERYI-KOSMOS-1.jpg</picture>
@@ -7199,7 +7199,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>52490</price>
+				<price>54980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 256GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-SEREBRISTYI-1.jpg</picture>
@@ -7238,7 +7238,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>52490</price>
+				<price>54980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 256GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-ZOLOTOI-1.jpg</picture>
@@ -7277,7 +7277,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>39990</price>
+				<price>42480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-SERYI-KOSMOS-1.jpg</picture>
@@ -7316,7 +7316,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>39990</price>
+				<price>42480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-SEREBRISTYI-1.jpg</picture>
@@ -7355,7 +7355,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>39990</price>
+				<price>42480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 64GB WiFi+Cellular</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-ZOLOTOI-1.jpg</picture>
@@ -7394,7 +7394,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>41490</price>
+				<price>43980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 256GB WiFi</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-SERYI-KOSMOS-1.jpg</picture>
@@ -7431,7 +7431,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>41490</price>
+				<price>43980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 256GB WiFi</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-SEREBRISTYI-1.jpg</picture>
@@ -7468,7 +7468,7 @@
 				<youlaSubcategoryId>1203</youlaSubcategoryId>
 				<smartphone_brand>8976</smartphone_brand>
 				<address>Москва, Барклая улица, 8</address>
-				<price>41490</price>
+				<price>43980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>iPad mini 5 2019 256GB WiFi</name>
 				<picture>https://pixs.ru/images/2020/10/22/iPad-mini-2019-ZOLOTOI-1.jpg</picture>
@@ -7616,7 +7616,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/27/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-TVETA-SERYI-KOSMOS-SPORTIVNYI-REMESOK-CERNOGO-TVETA-1.jpg</picture>
@@ -7660,7 +7660,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-SEREBRISTOGO-TVETA-REMESOK-BELOGO-TVETA-1.jpg</picture>
@@ -7702,7 +7702,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-ZOLOTOGO-TVETA-SPORTIVNYI-REMESOK-TVETA-ROZOVYI-PESOK-1.jpg</picture>
@@ -7747,7 +7747,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-TVETA-PRODUCTRED-SPORTIVNYI-REMESOK-KRASNOGO-TVETA-1.jpg</picture>
@@ -7789,7 +7789,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-SINEGO-TVETA-SPORTIVNYI-REMESOK-TEMNYI-ULTRAMARIN-1.jpg</picture>
@@ -7831,7 +7831,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINII-CERNYI-SPORT-REMEN.png</picture>
@@ -7874,7 +7874,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/SEREBRYNYI-ALYMINIEVYI-KORPUS-SPORTIVNAY-PETLY-TVET-DREVESNYI-UGOL.jpg</picture>
@@ -7918,7 +7918,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINEVYI-KORPUS-ZOLOTO-SPORTIVNYI-REMEN-ORANZEVYI-1.png</picture>
@@ -7962,7 +7962,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINEVYI-KORPUS-KRASNYI-SPORTIVNYI-REMEN-KRASNYI-2.png</picture>
@@ -8001,7 +8001,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>32990</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINEVYI-KORPUS-SINII-SPORTIVNYI-REMEN-KRASNYI-2.png</picture>
@@ -8044,7 +8044,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>33490</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-REMEN-SERYI-2.png</picture>
@@ -8087,7 +8087,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>33490</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-REMEN-BELYI-2.png</picture>
@@ -8129,7 +8129,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>33490</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-BRASLET-TEMNO-SINII-BELYI-1.png</picture>
@@ -8172,7 +8172,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>33490</price>
+				<price>31290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-SPORT-BRASLET-AURA-2.png</picture>
@@ -8213,7 +8213,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/27/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-TVETA-SERYI-KOSMOS-SPORTIVNYI-REMESOK-CERNOGO-TVETA-1.jpg</picture>
@@ -8257,7 +8257,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-SEREBRISTOGO-TVETA-REMESOK-BELOGO-TVETA-1.jpg</picture>
@@ -8299,7 +8299,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-ZOLOTOGO-TVETA-SPORTIVNYI-REMESOK-TVETA-ROZOVYI-PESOK-1.jpg</picture>
@@ -8344,7 +8344,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-TVETA-PRODUCTRED-SPORTIVNYI-REMESOK-KRASNOGO-TVETA-1.jpg</picture>
@@ -8386,7 +8386,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/Apple-Watch-Series-6-KORPUS-IZ-ALYMINIY-SINEGO-TVETA-SPORTIVNYI-REMESOK-TEMNYI-ULTRAMARIN-1.jpg</picture>
@@ -8428,7 +8428,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINII-CERNYI-SPORT-REMEN.png</picture>
@@ -8471,7 +8471,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/SEREBRYNYI-ALYMINIEVYI-KORPUS-SPORTIVNAY-PETLY-TVET-DREVESNYI-UGOL.jpg</picture>
@@ -8515,7 +8515,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINEVYI-KORPUS-ZOLOTO-SPORTIVNYI-REMEN-ORANZEVYI-1.png</picture>
@@ -8559,7 +8559,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINEVYI-KORPUS-KRASNYI-SPORTIVNYI-REMEN-KRASNYI-2.png</picture>
@@ -8598,7 +8598,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/ALYMINEVYI-KORPUS-SINII-SPORTIVNYI-REMEN-KRASNYI-2.png</picture>
@@ -8641,7 +8641,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-REMEN-SERYI-2.png</picture>
@@ -8684,7 +8684,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-REMEN-BELYI-2.png</picture>
@@ -8726,7 +8726,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-BRASLET-TEMNO-SINII-BELYI-1.png</picture>
@@ -8769,7 +8769,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>35490</price>
+				<price>32490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch S6 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/S6-nike-SPORT-SPORT-BRASLET-AURA-2.png</picture>
@@ -8810,7 +8810,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25490</price>
+				<price>24990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/28/SE-ALYMINIEVYI-SERYI-KOSMOS-REMESOK-SILIKOM-CERNYI-2.png</picture>
@@ -8851,7 +8851,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25490</price>
+				<price>25290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-SEREBRISTYI-SILIKONOVYI-BRASLET-BELYI-2.png</picture>
@@ -8893,7 +8893,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25490</price>
+				<price>25290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-ZOLOTO-SILIKONOVYI-BEZEVYI-2.png</picture>
@@ -8935,7 +8935,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25490</price>
+				<price>24990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-SERYI-KOSMOS-REMESOK-SPORT-Plum-2.png</picture>
@@ -8976,7 +8976,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25490</price>
+				<price>25290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-SERYI-KOSMOS-REMESOK-SPORT-ORANZEVYI-2.png</picture>
@@ -9016,7 +9016,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25490</price>
+				<price>25290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/ALYMINEVYI-KORPUS-ZOLOTO-SPORTIVNYI-REMEN-KRASNYI-2.png</picture>
@@ -9058,7 +9058,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25990</price>
+				<price>24990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/1bde96f3d4f2cba0d.png</picture>
@@ -9099,7 +9099,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25990</price>
+				<price>25290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/1bde96f3d4f2cba0d.png</picture>
@@ -9142,7 +9142,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25990</price>
+				<price>25290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/1b6da77128bbe75d7.png</picture>
@@ -9182,7 +9182,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>25990</price>
+				<price>25290</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 40</name>
 				<picture>https://pixs.ru/images/2020/10/29/19bf6a5198a893afa.png</picture>
@@ -9223,7 +9223,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26490</price>
+				<price>27190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/28/SE-ALYMINIEVYI-SERYI-KOSMOS-REMESOK-SILIKOM-CERNYI-2.png</picture>
@@ -9264,7 +9264,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26490</price>
+				<price>26990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-SEREBRISTYI-SILIKONOVYI-BRASLET-BELYI-2.png</picture>
@@ -9306,7 +9306,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26490</price>
+				<price>27190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-ZOLOTO-SILIKONOVYI-BEZEVYI-2.png</picture>
@@ -9348,7 +9348,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26490</price>
+				<price>27190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-SERYI-KOSMOS-REMESOK-SPORT-Plum-2.png</picture>
@@ -9389,7 +9389,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26490</price>
+				<price>26990</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/SE-ALYMINIEVYI-SERYI-KOSMOS-REMESOK-SPORT-ORANZEVYI-2.png</picture>
@@ -9429,7 +9429,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26490</price>
+				<price>27190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/ALYMINEVYI-KORPUS-ZOLOTO-SPORTIVNYI-REMEN-KRASNYI-2.png</picture>
@@ -9471,7 +9471,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26990</price>
+				<price>27190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/1bde96f3d4f2cba0d.png</picture>
@@ -9555,7 +9555,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26990</price>
+				<price>27190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/1b6da77128bbe75d7.png</picture>
@@ -9595,7 +9595,7 @@
 				<youlaSubcategoryId>1205</youlaSubcategoryId>
 				<umnye_chasy_tip>9061</umnye_chasy_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>26990</price>
+				<price>27190</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Apple Watch SE 44</name>
 				<picture>https://pixs.ru/images/2020/10/29/19bf6a5198a893afa.png</picture>
@@ -9636,7 +9636,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9675,7 +9675,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9714,7 +9714,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9753,7 +9753,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9792,7 +9792,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9831,7 +9831,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9870,7 +9870,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9909,7 +9909,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -9948,7 +9948,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -9987,7 +9987,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10026,7 +10026,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10065,7 +10065,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10104,7 +10104,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10143,7 +10143,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10182,7 +10182,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10221,7 +10221,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10260,7 +10260,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10299,7 +10299,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10338,7 +10338,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10377,7 +10377,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10416,7 +10416,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10455,7 +10455,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10494,7 +10494,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10533,7 +10533,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10572,7 +10572,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10611,7 +10611,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10650,7 +10650,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10689,7 +10689,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10728,7 +10728,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10767,7 +10767,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10806,7 +10806,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10845,7 +10845,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook PRO 13" 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Pro-13-SEREBRISTYI-1.jpg</picture>
@@ -10884,7 +10884,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10923,7 +10923,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -10962,7 +10962,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11001,7 +11001,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11040,7 +11040,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11079,7 +11079,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11118,7 +11118,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11157,7 +11157,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11196,7 +11196,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11235,7 +11235,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11274,7 +11274,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11313,7 +11313,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11352,7 +11352,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11391,7 +11391,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11430,7 +11430,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11469,7 +11469,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -11508,7 +11508,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11547,7 +11547,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11586,7 +11586,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11625,7 +11625,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11664,7 +11664,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11703,7 +11703,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11742,7 +11742,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11781,7 +11781,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -11820,7 +11820,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11859,7 +11859,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11898,7 +11898,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11937,7 +11937,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -11976,7 +11976,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12015,7 +12015,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12054,7 +12054,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12093,7 +12093,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12132,7 +12132,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12171,7 +12171,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12210,7 +12210,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12249,7 +12249,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12288,7 +12288,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -12327,7 +12327,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -12366,7 +12366,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -12405,7 +12405,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -12444,7 +12444,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -12483,7 +12483,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -12522,7 +12522,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12561,7 +12561,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12600,7 +12600,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12639,7 +12639,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12678,7 +12678,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12717,7 +12717,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12756,7 +12756,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12795,7 +12795,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -12834,7 +12834,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12873,7 +12873,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12912,7 +12912,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12951,7 +12951,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -12990,7 +12990,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13029,7 +13029,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13068,7 +13068,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13107,7 +13107,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13146,7 +13146,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13185,7 +13185,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13224,7 +13224,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13263,7 +13263,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13302,7 +13302,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13341,7 +13341,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13380,7 +13380,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13419,7 +13419,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13458,7 +13458,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -13497,7 +13497,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -13536,7 +13536,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -13575,7 +13575,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -13614,7 +13614,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -13653,7 +13653,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SERYI-KOSMOS-1.jpg</picture>
@@ -13692,7 +13692,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13731,7 +13731,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13770,7 +13770,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13809,7 +13809,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13848,7 +13848,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13887,7 +13887,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-SEREBRISTYI-1.jpg</picture>
@@ -13926,7 +13926,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -13965,7 +13965,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -14004,7 +14004,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -14043,7 +14043,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -14082,7 +14082,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -14121,7 +14121,7 @@
 				<youlaSubcategoryId>1504</youlaSubcategoryId>
 				<notebook_tip>9236</notebook_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>299990</price>
+				<price>302480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>MacBook Air 2020</name>
 				<picture>https://pixs.ru/images/2020/10/22/MacBook-Air-13-ZOLOTOI-1.jpg</picture>
@@ -14160,7 +14160,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>65000</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>AirPods MAX</name>
 				<picture>https://pixs.ru/images/2021/01/26/airpods-max-select-spacegray-202011.png</picture>
@@ -14178,7 +14178,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>65000</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>AirPods MAX</name>
 				<picture>https://pixs.ru/images/2021/01/26/airpods-max-select-silver-202011.png</picture>
@@ -14196,7 +14196,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>65000</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>AirPods MAX</name>
 				<picture>https://pixs.ru/images/2021/01/26/airpods-max-select-green-202011.png</picture>
@@ -14214,7 +14214,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>65000</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>AirPods MAX</name>
 				<picture>https://pixs.ru/images/2021/01/26/airpods-max-select-skyblue-202011.png</picture>
@@ -14232,7 +14232,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>65000</price>
+				<price>46490</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>AirPods MAX</name>
 				<picture>https://pixs.ru/images/2021/01/26/airpods-max-select-pink-202011.png</picture>
@@ -14250,7 +14250,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>17990</price>
+				<price>20480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods PRO</name>
 				<picture>https://pixs.ru/images/2020/10/22/NAUSNIKI-AirPods-Pro-1.jpg</picture>
@@ -14282,7 +14282,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>21490</price>
+				<price>23980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods PRO</name>
 				<picture>https://pixs.ru/images/2020/10/22/Airpods-PRO-CERNYI-MATOVYI-1.jpg</picture>
@@ -14311,7 +14311,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>21490</price>
+				<price>23980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods PRO</name>
 				<picture>https://pixs.ru/images/2020/10/22/Airpods-PRO-CERNYI-GLYNTEVYI-1.jpg</picture>
@@ -14339,7 +14339,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>13490</price>
+				<price>15980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods 2 Wireless</name>
 				<picture>https://pixs.ru/images/2020/10/23/Airpods-2-Wireless-BELYI-1.jpg</picture>
@@ -14368,7 +14368,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>14990</price>
+				<price>17480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods 2 Wireless</name>
 				<picture>https://pixs.ru/images/2020/10/23/Airpods-2-Wireless-CERNYI-MATOVYI-2.jpg</picture>
@@ -14395,7 +14395,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>14990</price>
+				<price>17480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods 2 Wireless</name>
 				<picture>https://pixs.ru/images/2020/10/23/Airpods-2-Wireless-CERNYI-GLYNTEVYI-1.jpg</picture>
@@ -14423,7 +14423,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>11490</price>
+				<price>13980</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods 2</name>
 				<picture>https://pixs.ru/images/2020/10/23/NAUSNIKI-AirPods-2019-V-ZARYDNOM-FUTLYRE-1.jpg</picture>
@@ -14452,7 +14452,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>13990</price>
+				<price>16480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods 2</name>
 				<picture>https://pixs.ru/images/2020/10/23/Airpods-2-Wireless-CERNYI-MATOVYI-1.jpg</picture>
@@ -14478,7 +14478,7 @@
 				<youlaSubcategoryId>1306</youlaSubcategoryId>
 				<naushniki_tip>9862</naushniki_tip>
 				<address>Москва, Барклая улица, 8</address>
-				<price>13990</price>
+				<price>16480</price>
 				<phone>+7 985 222-08-88</phone>
 				<name>Airpods 2</name>
 				<picture>https://pixs.ru/images/2020/10/23/Airpods-2-CERNYI-GLYNTEVYI-1.jpg</picture>
