@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2021-05-11 01:16">
+<yml_catalog date="2021-05-25 18:04">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -2285,7 +2285,7 @@
 			</offer>
 			<offer id="0541" available="true">
 				<name>iPhone 11 PRO MAX 512GB</name>
-				<price>94490</price>
+				<price>91990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2324,7 +2324,7 @@
 			</offer>
 			<offer id="0551" available="true">
 				<name>iPhone 11 PRO MAX 512GB</name>
-				<price>94490</price>
+				<price>91990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2363,7 +2363,7 @@
 			</offer>
 			<offer id="0561" available="true">
 				<name>iPhone 11 PRO MAX 512GB</name>
-				<price>94490</price>
+				<price>91990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2399,7 +2399,7 @@
 			</offer>
 			<offer id="0571" available="true">
 				<name>iPhone 11 PRO MAX 512GB</name>
-				<price>94490</price>
+				<price>91990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2744,7 +2744,7 @@
 			</offer>
 			<offer id="0661" available="true">
 				<name>iPhone 11 PRO 512GB</name>
-				<price>82490</price>
+				<price>69990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2782,7 +2782,7 @@
 			</offer>
 			<offer id="0671" available="true">
 				<name>iPhone 11 PRO 512GB</name>
-				<price>82490</price>
+				<price>69990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2821,7 +2821,7 @@
 			</offer>
 			<offer id="0681" available="true">
 				<name>iPhone 11 PRO 512GB</name>
-				<price>82490</price>
+				<price>69990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2857,7 +2857,7 @@
 			</offer>
 			<offer id="0691" available="true">
 				<name>iPhone 11 PRO 512GB</name>
-				<price>82490</price>
+				<price>69990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2896,7 +2896,7 @@
 			</offer>
 			<offer id="0701" available="true">
 				<name>iPhone 11 PRO 256GB</name>
-				<price>71490</price>
+				<price>66990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2934,7 +2934,7 @@
 			</offer>
 			<offer id="0711" available="true">
 				<name>iPhone 11 PRO 256GB</name>
-				<price>71490</price>
+				<price>66990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2973,7 +2973,7 @@
 			</offer>
 			<offer id="0721" available="true">
 				<name>iPhone 11 PRO 256GB</name>
-				<price>71490</price>
+				<price>66990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3009,7 +3009,7 @@
 			</offer>
 			<offer id="0731" available="true">
 				<name>iPhone 11 PRO 256GB</name>
-				<price>71490</price>
+				<price>66990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3200,7 +3200,7 @@
 			</offer>
 			<offer id="0781" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>61990</price>
+				<price>62990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3237,7 +3237,7 @@
 			</offer>
 			<offer id="0791" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>61990</price>
+				<price>62990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3274,7 +3274,7 @@
 			</offer>
 			<offer id="0801" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>61990</price>
+				<price>62990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3311,7 +3311,7 @@
 			</offer>
 			<offer id="0811" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>61990</price>
+				<price>62990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3348,7 +3348,7 @@
 			</offer>
 			<offer id="0821" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>61990</price>
+				<price>62990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3385,7 +3385,7 @@
 			</offer>
 			<offer id="0831" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>61990</price>
+				<price>62990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3422,7 +3422,7 @@
 			</offer>
 			<offer id="0841" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52890</price>
+				<price>51990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3459,7 +3459,7 @@
 			</offer>
 			<offer id="0851" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>53190</price>
+				<price>51990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3496,7 +3496,7 @@
 			</offer>
 			<offer id="0861" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52490</price>
+				<price>51990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3533,7 +3533,7 @@
 			</offer>
 			<offer id="0871" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52990</price>
+				<price>51990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3570,7 +3570,7 @@
 			</offer>
 			<offer id="0881" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>53290</price>
+				<price>51990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3607,7 +3607,7 @@
 			</offer>
 			<offer id="0891" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>53090</price>
+				<price>51990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3644,7 +3644,7 @@
 			</offer>
 			<offer id="0901" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47990</price>
+				<price>48490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3681,7 +3681,7 @@
 			</offer>
 			<offer id="0911" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47990</price>
+				<price>48490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3718,7 +3718,7 @@
 			</offer>
 			<offer id="0921" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47990</price>
+				<price>48490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3755,7 +3755,7 @@
 			</offer>
 			<offer id="0931" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47990</price>
+				<price>48490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3792,7 +3792,7 @@
 			</offer>
 			<offer id="0941" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47990</price>
+				<price>48490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3829,7 +3829,7 @@
 			</offer>
 			<offer id="0951" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47990</price>
+				<price>48490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3866,7 +3866,7 @@
 			</offer>
 			<offer id="0961" available="true">
 				<name>iPhone SE 256GB</name>
-				<price>41490</price>
+				<price>42990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3905,7 +3905,7 @@
 			</offer>
 			<offer id="0971" available="true">
 				<name>iPhone SE 256GB</name>
-				<price>41490</price>
+				<price>42990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3944,7 +3944,7 @@
 			</offer>
 			<offer id="0981" available="true">
 				<name>iPhone SE 256GB</name>
-				<price>41490</price>
+				<price>42990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -3983,7 +3983,7 @@
 			</offer>
 			<offer id="0991" available="true">
 				<name>iPhone SE 128GB</name>
-				<price>37590</price>
+				<price>38990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -4022,7 +4022,7 @@
 			</offer>
 			<offer id="1001" available="true">
 				<name>iPhone SE 128GB</name>
-				<price>37590</price>
+				<price>38990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -4061,7 +4061,7 @@
 			</offer>
 			<offer id="1011" available="true">
 				<name>iPhone SE 128GB</name>
-				<price>37590</price>
+				<price>38990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -4100,7 +4100,7 @@
 			</offer>
 			<offer id="1021" available="true">
 				<name>iPhone SE 64GB</name>
-				<price>33790</price>
+				<price>34690</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -4139,7 +4139,7 @@
 			</offer>
 			<offer id="1031" available="true">
 				<name>iPhone SE 64GB</name>
-				<price>34290</price>
+				<price>34690</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -4178,7 +4178,7 @@
 			</offer>
 			<offer id="1041" available="true">
 				<name>iPhone SE 64GB</name>
-				<price>34290</price>
+				<price>34690</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
