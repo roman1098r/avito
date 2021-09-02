@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2021-07-30 07:47">
+<yml_catalog date="2021-08-02 19:34">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -2752,7 +2752,7 @@
 			</offer>
 			<offer id="0661" available="true">
 				<name>iPhone 11 PRO 512GB</name>
-				<price>67990</price>
+				<price>76490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2790,7 +2790,7 @@
 			</offer>
 			<offer id="0671" available="true">
 				<name>iPhone 11 PRO 512GB</name>
-				<price>67990</price>
+				<price>76490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2829,7 +2829,7 @@
 			</offer>
 			<offer id="0681" available="true">
 				<name>iPhone 11 PRO 512GB</name>
-				<price>70990</price>
+				<price>73990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
