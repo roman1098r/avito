@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2021-08-25 12:51">
+<yml_catalog date="2021-08-25 14:31">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -18,7 +18,7 @@
 		<offers>
 			<offer id="4830" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>249990</price>
+				<price>199990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -61,7 +61,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4840" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>249990</price>
+				<price>199990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -104,7 +104,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4850" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>249990</price>
+				<price>199990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -147,7 +147,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4860" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>249990</price>
+				<price>199990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -362,7 +362,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4910" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>124990</price>
+				<price>128990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -405,7 +405,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4920" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>124990</price>
+				<price>128990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -448,7 +448,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4930" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>124990</price>
+				<price>128990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -491,7 +491,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4940" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>124990</price>
+				<price>128990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
