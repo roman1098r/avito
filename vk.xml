@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2022-03-27 22:35">
+<yml_catalog date="2022-04-14 14:51">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -18,7 +18,7 @@
 		<offers>
 			<offer id="4830" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>190990</price>
+				<price>135990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -61,7 +61,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4840" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>190990</price>
+				<price>135990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -104,7 +104,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4850" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>190990</price>
+				<price>135990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -147,7 +147,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4860" available="true">
 				<name>iPhone 13 PRO MAX 1TB</name>
-				<price>190990</price>
+				<price>135990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -190,7 +190,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4870" available="true">
 				<name>iPhone 13 PRO MAX 512GB</name>
-				<price>176990</price>
+				<price>133990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -233,7 +233,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4880" available="true">
 				<name>iPhone 13 PRO MAX 512GB</name>
-				<price>176990</price>
+				<price>133990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -276,7 +276,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4890" available="true">
 				<name>iPhone 13 PRO MAX 512GB</name>
-				<price>176990</price>
+				<price>133990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -319,7 +319,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4900" available="true">
 				<name>iPhone 13 PRO MAX 512GB</name>
-				<price>176990</price>
+				<price>133990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -362,7 +362,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4910" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>152990</price>
+				<price>111990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -405,7 +405,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4920" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>152990</price>
+				<price>111990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -448,7 +448,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4930" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>152990</price>
+				<price>111990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -491,7 +491,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4940" available="true">
 				<name>iPhone 13 PRO MAX 256GB</name>
-				<price>152990</price>
+				<price>111990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -534,7 +534,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4950" available="true">
 				<name>iPhone 13 PRO MAX 128GB</name>
-				<price>140990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -577,7 +577,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4960" available="true">
 				<name>iPhone 13 PRO MAX 128GB</name>
-				<price>140990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -620,7 +620,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4970" available="true">
 				<name>iPhone 13 PRO MAX 128GB</name>
-				<price>140990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -663,7 +663,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4980" available="true">
 				<name>iPhone 13 PRO MAX 128GB</name>
-				<price>140990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -706,7 +706,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="4990" available="true">
 				<name>iPhone 13 PRO 1TB</name>
-				<price>194990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -749,7 +749,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5000" available="true">
 				<name>iPhone 13 PRO 1TB</name>
-				<price>194990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -792,7 +792,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5010" available="true">
 				<name>iPhone 13 PRO 1TB</name>
-				<price>194990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -835,7 +835,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5020" available="true">
 				<name>iPhone 13 PRO 1TB</name>
-				<price>194990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -878,7 +878,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5030" available="true">
 				<name>iPhone 13 PRO 512GB</name>
-				<price>182990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -921,7 +921,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5040" available="true">
 				<name>iPhone 13 PRO 512GB</name>
-				<price>182990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -964,7 +964,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5050" available="true">
 				<name>iPhone 13 PRO 512GB</name>
-				<price>182990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1007,7 +1007,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5060" available="true">
 				<name>iPhone 13 PRO 512GB</name>
-				<price>182990</price>
+				<price>121990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1050,7 +1050,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5070" available="true">
 				<name>iPhone 13 PRO 256GB</name>
-				<price>141990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1093,7 +1093,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5080" available="true">
 				<name>iPhone 13 PRO 256GB</name>
-				<price>141990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1136,7 +1136,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5090" available="true">
 				<name>iPhone 13 PRO 256GB</name>
-				<price>141990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1179,7 +1179,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5100" available="true">
 				<name>iPhone 13 PRO 256GB</name>
-				<price>141990</price>
+				<price>100990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1222,7 +1222,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5110" available="true">
 				<name>iPhone 13 PRO 128GB</name>
-				<price>127990</price>
+				<price>92490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1265,7 +1265,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5120" available="true">
 				<name>iPhone 13 PRO 128GB</name>
-				<price>127990</price>
+				<price>92490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1308,7 +1308,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5130" available="true">
 				<name>iPhone 13 PRO 128GB</name>
-				<price>127990</price>
+				<price>92490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1351,7 +1351,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5140" available="true">
 				<name>iPhone 13 PRO 128GB</name>
-				<price>127990</price>
+				<price>92490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1394,7 +1394,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5150" available="true">
 				<name>iPhone 13 512GB</name>
-				<price>116990</price>
+				<price>87990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1437,7 +1437,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5160" available="true">
 				<name>iPhone 13 512GB</name>
-				<price>116990</price>
+				<price>87990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1480,7 +1480,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5170" available="true">
 				<name>iPhone 13 512GB</name>
-				<price>116990</price>
+				<price>87990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1523,7 +1523,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5180" available="true">
 				<name>iPhone 13 512GB</name>
-				<price>116990</price>
+				<price>87990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1566,7 +1566,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5190" available="true">
 				<name>iPhone 13 512GB</name>
-				<price>116990</price>
+				<price>87990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1609,7 +1609,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5200" available="true">
 				<name>iPhone 13 256GB</name>
-				<price>106490</price>
+				<price>77990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1652,7 +1652,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5210" available="true">
 				<name>iPhone 13 256GB</name>
-				<price>106490</price>
+				<price>77990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1695,7 +1695,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5220" available="true">
 				<name>iPhone 13 256GB</name>
-				<price>106490</price>
+				<price>77990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1738,7 +1738,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5230" available="true">
 				<name>iPhone 13 256GB</name>
-				<price>106490</price>
+				<price>77990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1781,7 +1781,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5240" available="true">
 				<name>iPhone 13 256GB</name>
-				<price>106490</price>
+				<price>77990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1824,7 +1824,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5250" available="true">
 				<name>iPhone 13 128GB</name>
-				<price>93490</price>
+				<price>73490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1867,7 +1867,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5260" available="true">
 				<name>iPhone 13 128GB</name>
-				<price>93490</price>
+				<price>73490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1910,7 +1910,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5270" available="true">
 				<name>iPhone 13 128GB</name>
-				<price>93490</price>
+				<price>73490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1953,7 +1953,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5280" available="true">
 				<name>iPhone 13 128GB</name>
-				<price>93490</price>
+				<price>73490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -1996,7 +1996,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5290" available="true">
 				<name>iPhone 13 128GB</name>
-				<price>93490</price>
+				<price>73490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2039,7 +2039,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5300" available="true">
 				<name>iPhone 13 mini 512GB</name>
-				<price>99990</price>
+				<price>79990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2082,7 +2082,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5310" available="true">
 				<name>iPhone 13 mini 512GB</name>
-				<price>99490</price>
+				<price>79990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2125,7 +2125,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5320" available="true">
 				<name>iPhone 13 mini 512GB</name>
-				<price>99490</price>
+				<price>79990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2168,7 +2168,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5330" available="true">
 				<name>iPhone 13 mini 512GB</name>
-				<price>99490</price>
+				<price>79990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2211,7 +2211,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5340" available="true">
 				<name>iPhone 13 mini 512GB</name>
-				<price>99490</price>
+				<price>79990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2254,7 +2254,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5350" available="true">
 				<name>iPhone 13 mini 256GB</name>
-				<price>73490</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2297,7 +2297,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5360" available="true">
 				<name>iPhone 13 mini 256GB</name>
-				<price>73490</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2340,7 +2340,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5370" available="true">
 				<name>iPhone 13 mini 256GB</name>
-				<price>73490</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2383,7 +2383,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5380" available="true">
 				<name>iPhone 13 mini 256GB</name>
-				<price>73490</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2426,7 +2426,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5390" available="true">
 				<name>iPhone 13 mini 256GB</name>
-				<price>73490</price>
+				<price>72490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2469,7 +2469,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5400" available="true">
 				<name>iPhone 13 mini 128GB</name>
-				<price>68490</price>
+				<price>63990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2512,7 +2512,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5410" available="true">
 				<name>iPhone 13 mini 128GB</name>
-				<price>68490</price>
+				<price>63990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2555,7 +2555,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5420" available="true">
 				<name>iPhone 13 mini 128GB</name>
-				<price>68490</price>
+				<price>63990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2598,7 +2598,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5430" available="true">
 				<name>iPhone 13 mini 128GB</name>
-				<price>68490</price>
+				<price>63990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -2641,7 +2641,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="5440" available="true">
 				<name>iPhone 13 mini 128GB</name>
-				<price>68490</price>
+				<price>63990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -5875,7 +5875,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0781" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>67490</price>
+				<price>57490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -5912,7 +5912,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0791" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>67490</price>
+				<price>57490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -5949,7 +5949,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0801" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>67490</price>
+				<price>57490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -5986,7 +5986,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0811" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>67490</price>
+				<price>57490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6023,7 +6023,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0821" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>67490</price>
+				<price>57490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6060,7 +6060,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0831" available="true">
 				<name>iPhone 11 256GB</name>
-				<price>67490</price>
+				<price>57490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6097,7 +6097,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0841" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52490</price>
+				<price>48990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6134,7 +6134,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0851" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52490</price>
+				<price>48990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6171,7 +6171,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0861" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52490</price>
+				<price>48990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6208,7 +6208,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0871" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52490</price>
+				<price>48990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6245,7 +6245,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0881" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52490</price>
+				<price>48990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6282,7 +6282,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0891" available="true">
 				<name>iPhone 11 128GB</name>
-				<price>52490</price>
+				<price>48990</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6319,7 +6319,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0901" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47490</price>
+				<price>45490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6356,7 +6356,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0911" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47490</price>
+				<price>45490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6393,7 +6393,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0921" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47490</price>
+				<price>45490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6430,7 +6430,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0931" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47490</price>
+				<price>45490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6467,7 +6467,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0941" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47490</price>
+				<price>45490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6504,7 +6504,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0951" available="true">
 				<name>iPhone 11 64GB</name>
-				<price>47490</price>
+				<price>45490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6541,7 +6541,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0961" available="true">
 				<name>iPhone SE 256GB</name>
-				<price>45490</price>
+				<price>41490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6580,7 +6580,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0971" available="true">
 				<name>iPhone SE 256GB</name>
-				<price>45490</price>
+				<price>41490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6619,7 +6619,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0981" available="true">
 				<name>iPhone SE 256GB</name>
-				<price>45490</price>
+				<price>41490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6658,7 +6658,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="0991" available="true">
 				<name>iPhone SE 128GB</name>
-				<price>38490</price>
+				<price>35490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6697,7 +6697,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="1001" available="true">
 				<name>iPhone SE 128GB</name>
-				<price>38490</price>
+				<price>35490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6736,7 +6736,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="1011" available="true">
 				<name>iPhone SE 128GB</name>
-				<price>38490</price>
+				<price>35490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6775,7 +6775,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="1021" available="true">
 				<name>iPhone SE 64GB</name>
-				<price>34990</price>
+				<price>34490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6814,7 +6814,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="1031" available="true">
 				<name>iPhone SE 64GB</name>
-				<price>34990</price>
+				<price>32490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
@@ -6853,7 +6853,7 @@ https://pixs.ru/images/2020/10/24/INFO1.png</picture>
 			</offer>
 			<offer id="1041" available="true">
 				<name>iPhone SE 64GB</name>
-				<price>34990</price>
+				<price>32490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
