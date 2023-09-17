@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2023-07-28 20:38">
+<yml_catalog date="2023-08-17 21:00">
 	<shop>
 		<currencies>
 			<currency id="RUR" rate="1"></currency>
@@ -16,6 +16,90 @@
 			<category id="9">Apple Аксессуары</category>
 		</categories>
 		<offers>
+			<offer id="1" available="true">
+				<name>iPhone 13 PRO 256GB 2sim</name>
+				<price>76490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/09/20/13-PRO-GOLD-1.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-GOLD-2.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-GOLD-3.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-GOLD-4.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-5-OBSAY.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-GOLD-5-KOMPLEKT.jpg
+https://pixs.ru/images/2020/10/23/AKTIY-AIFON.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/24/INFA.jpg
+https://pixs.ru/images/2020/10/24/INFO1.png</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A15 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-Pol</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">23</param>
+			</offer>
+			<offer id="2" available="true">
+				<name>iPhone 13 PRO 256GB</name>
+				<price>76490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/09/20/13-PRO-BELYI.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-BELYI-2.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-BELYI-3.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-BELYI-4.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-5-OBSAY.jpg
+https://pixs.ru/images/2021/09/20/13-PRO-BELYI-6-KOMPLEKT.jpg
+https://pixs.ru/images/2020/10/23/AKTIY-AIFON.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/24/INFA.jpg
+https://pixs.ru/images/2020/10/24/INFO1.png</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A15 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-Pol</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">23</param>
+			</offer>
 			<offer id="0001" available="true">
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<price>101490</price>
@@ -27,10 +111,10 @@
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
+				<description><![CDATA[<h3>1</h3>
 ]]></description>
 				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
-				<param name="Встроенная память">512GB</param>
+				<param name="Встроеннаяпамять">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -54,21 +138,21 @@
 				<param name="В комплекте">Кабель Lightning/USB-C</param>
 				<param name="Артикул">0001</param>
 			</offer>
-			<offer id="0002" available="true">
+			<offer id="0011" available="true">
 				<name>iPhone 12 PRO MAX 512GB</name>
 				<price>101490</price>
 				<oldprice>150000</oldprice>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
-				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
-				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
-				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
 				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
-				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
-				<description><![CDATA[<h3>iPhone 12 PRO MAX 512GB</h3>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
 ]]></description>
-				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
-				<param name="Встроенная память">512GB</param>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроеннаяпамять">512GB</param>
 				<param name="Процессор">A14 Bionic</param>
 				<param name="Год релиза">2020</param>
 				<param name="Диагональ дисплея">6,7''</param>
@@ -90,7 +174,2207 @@
 				<param name="Вес">226г</param>
 				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
 				<param name="В комплекте">Кабель Lightning/USB-C</param>
-				<param name="Артикул">0002</param>
+				<param name="Артикул">0011</param>
+			</offer>
+			<offer id="0021" available="true">
+				<name>iPhone 12 PRO MAX 512GB</name>
+				<price>101490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроеннаяпамять">512GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0021</param>
+			</offer>
+			<offer id="0031" available="true">
+				<name>iPhone 12 PRO MAX 512GB</name>
+				<price>101490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроеннаяпамять">512GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0031</param>
+			</offer>
+			<offer id="0041" available="true">
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>88490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0041</param>
+			</offer>
+			<offer id="0051" available="true">
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>88490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый
+</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0051</param>
+			</offer>
+			<offer id="0061" available="true">
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>88490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0061</param>
+			</offer>
+			<offer id="0071" available="true">
+				<name>iPhone 12 PRO MAX 256GB</name>
+				<price>88490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Silver/Серебро</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0071</param>
+			</offer>
+			<offer id="0081" available="true">
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>82490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий
+</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0081</param>
+			</offer>
+			<offer id="0091" available="true">
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>82490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0091</param>
+			</offer>
+			<offer id="0101" available="true">
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>82490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Gold/Золото</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0101</param>
+			</offer>
+			<offer id="0111" available="true">
+				<name>iPhone 12 PRO MAX 128GB</name>
+				<price>82490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,7''</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2778x1284/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 458 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 12х и оптическим 5х зумом. Автоматическая оптическая стабилизация изображения сдвигом матрицы. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.2. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 20 часов. Воспроизведение аудио до 80 часов</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">160,8мм/78,1мм/7,4мм</param>
+				<param name="Вес">226г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0111</param>
+			</offer>
+			<offer id="0121" available="true">
+				<name>iPhone 12 PRO 512GB</name>
+				<price>95990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроеннаяпамять">512GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0121</param>
+			</offer>
+			<offer id="0131" available="true">
+				<name>iPhone 12 PRO 512GB</name>
+				<price>95990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроеннаяпамять">512GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0131</param>
+			</offer>
+			<offer id="0141" available="true">
+				<name>iPhone 12 PRO 512GB</name>
+				<price>95990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроеннаяпамять">512GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0141</param>
+			</offer>
+			<offer id="0151" available="true">
+				<name>iPhone 12 PRO 512GB</name>
+				<price>95990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроеннаяпамять">512GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0151</param>
+			</offer>
+			<offer id="0161" available="true">
+				<name>iPhone 12 PRO 256GB</name>
+				<price>83990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0161</param>
+			</offer>
+			<offer id="0171" available="true">
+				<name>iPhone 12 PRO 256GB</name>
+				<price>83990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0171</param>
+			</offer>
+			<offer id="0181" available="true">
+				<name>iPhone 12 PRO 256GB</name>
+				<price>83990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0181</param>
+			</offer>
+			<offer id="0191" available="true">
+				<name>iPhone 12 PRO 256GB</name>
+				<price>83990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0191</param>
+			</offer>
+			<offer id="0201" available="true">
+				<name>iPhone 12 PRO 128GB</name>
+				<price>76490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Pacific Blue/Тихоокеанский Синий</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0201</param>
+			</offer>
+			<offer id="0211" available="true">
+				<name>iPhone 12 PRO 128GB</name>
+				<price>76490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-GRAFITOVYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-GRAFITOVYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Graphite/Графитовый</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0211</param>
+			</offer>
+			<offer id="0221" available="true">
+				<name>iPhone 12 PRO 128GB</name>
+				<price>76490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-ZOLOTOI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Gold/Золотой</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0221</param>
+			</offer>
+			<offer id="0231" available="true">
+				<name>iPhone 12 PRO 128GB</name>
+				<price>76490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-TIKOOKEANSKII-SINII-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-Pro-Max-SEREBRISTYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Silver/Серебристый</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 800 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 10х и оптическим 4х зумом. Автоматическая двойная оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4, телефото: ƒ/2.0. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 6х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселеромерт, барометр, датчик внешней освещенности, датчик приближения, сканер LiDAR</param>
+				<param name="Материал корпуса">Нержавеющая сталь</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">187г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0231</param>
+			</offer>
+			<offer id="0241" available="true">
+				<name>iPhone 12 256GB</name>
+				<price>77990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0241</param>
+			</offer>
+			<offer id="0251" available="true">
+				<name>iPhone 12 256GB</name>
+				<price>77990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0251</param>
+			</offer>
+			<offer id="4266" available="true">
+				<name>iPhone 12 256GB</name>
+				<price>77990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-GLAVNAY.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-KOMPLEKT-POSTAVKI.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">4266</param>
+			</offer>
+			<offer id="0261" available="true">
+				<name>iPhone 12 256GB</name>
+				<price>77990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0261</param>
+			</offer>
+			<offer id="0271" available="true">
+				<name>iPhone 12 256GB</name>
+				<price>77990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0271</param>
+			</offer>
+			<offer id="0281" available="true">
+				<name>iPhone 12 256GB</name>
+				<price>77990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0281</param>
+			</offer>
+			<offer id="0291" available="true">
+				<name>iPhone 12 128GB</name>
+				<price>67990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0291</param>
+			</offer>
+			<offer id="0301" available="true">
+				<name>iPhone 12 128GB</name>
+				<price>68490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0301</param>
+			</offer>
+			<offer id="4276" available="true">
+				<name>iPhone 12 128GB</name>
+				<price>68890</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-GLAVNAY.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-KOMPLEKT-POSTAVKI.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">4276</param>
+			</offer>
+			<offer id="0311" available="true">
+				<name>iPhone 12 128GB</name>
+				<price>67990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0311</param>
+			</offer>
+			<offer id="0321" available="true">
+				<name>iPhone 12 128GB</name>
+				<price>67990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0321</param>
+			</offer>
+			<offer id="0331" available="true">
+				<name>iPhone 12 128GB</name>
+				<price>68490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0331</param>
+			</offer>
+			<offer id="0341" available="true">
+				<name>iPhone 12 64GB</name>
+				<price>63690</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0341</param>
+			</offer>
+			<offer id="0351" available="true">
+				<name>iPhone 12 64GB</name>
+				<price>64490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0351</param>
+			</offer>
+			<offer id="4286" available="true">
+				<name>iPhone 12 64GB</name>
+				<price>65490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-GLAVNAY.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-KOMPLEKT-POSTAVKI.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">4286</param>
+			</offer>
+			<offer id="0361" available="true">
+				<name>iPhone 12 64GB</name>
+				<price>61190</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0361</param>
+			</offer>
+			<offer id="0371" available="true">
+				<name>iPhone 12 64GB</name>
+				<price>61190</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0371</param>
+			</offer>
+			<offer id="0381" available="true">
+				<name>iPhone 12 64GB</name>
+				<price>64490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">6,1"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2532x1170/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 460 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 17 часов. Воспроизведение аудио до 65 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">146,7мм/71,5мм/7,4мм</param>
+				<param name="Вес">162г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0381</param>
+			</offer>
+			<offer id="0391" available="true">
+				<name>iPhone 12 mini 256GB</name>
+				<price>68490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0391</param>
+			</offer>
+			<offer id="0401" available="true">
+				<name>iPhone 12 mini 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0401</param>
+			</offer>
+			<offer id="4296" available="true">
+				<name>iPhone 12 mini 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-GLAVNAY.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-KOMPLEKT-POSTAVKI.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">4296</param>
+			</offer>
+			<offer id="0411" available="true">
+				<name>iPhone 12 mini 256GB</name>
+				<price>67490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0411</param>
+			</offer>
+			<offer id="0421" available="true">
+				<name>iPhone 12 mini 256GB</name>
+				<price>66490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0421</param>
+			</offer>
+			<offer id="0431" available="true">
+				<name>iPhone 12 mini 256GB</name>
+				<price>66490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроеннаяпамять">256GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0431</param>
+			</offer>
+			<offer id="0441" available="true">
+				<name>iPhone 12 mini 128GB</name>
+				<price>61490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0441</param>
+			</offer>
+			<offer id="0451" available="true">
+				<name>iPhone 12 mini 128GB</name>
+				<price>61490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0451</param>
+			</offer>
+			<offer id="4306" available="true">
+				<name>iPhone 12 mini 128GB</name>
+				<price>62490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-GLAVNAY.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-KOMPLEKT-POSTAVKI.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">4306</param>
+			</offer>
+			<offer id="0461" available="true">
+				<name>iPhone 12 mini 128GB</name>
+				<price>60190</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0461</param>
+			</offer>
+			<offer id="0471" available="true">
+				<name>iPhone 12 mini 128GB</name>
+				<price>60990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0471</param>
+			</offer>
+			<offer id="0481" available="true">
+				<name>iPhone 12 mini 128GB</name>
+				<price>60990</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроеннаяпамять">128GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0481</param>
+			</offer>
+			<offer id="0491" available="true">
+				<name>iPhone 12 mini 64GB</name>
+				<price>56290</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-CERNYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Black/Чёрный</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0491</param>
+			</offer>
+			<offer id="0501" available="true">
+				<name>iPhone 12 mini 64GB</name>
+				<price>56290</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-BELYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-mini-BELYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">White/Белый </param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0501</param>
+			</offer>
+			<offer id="4316" available="true">
+				<name>iPhone 12 mini 64GB</name>
+				<price>56490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-GLAVNAY.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/30/12-FIOLETOVYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2021/05/31/12-FIOLETOVYI-KOMPLEKT-POSTAVKI.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Purple/Фиолетовый</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2021</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">4316</param>
+			</offer>
+			<offer id="0511" available="true">
+				<name>iPhone 12 mini 64GB</name>
+				<price>55490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-PRODUCTRED-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">(PRODUCT)RED/Красный</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0511</param>
+			</offer>
+			<offer id="0521" available="true">
+				<name>iPhone 12 mini 64GB</name>
+				<price>55490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-ZELENYI-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Green/Зелёный</param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0521</param>
+			</offer>
+			<offer id="0531" available="true">
+				<name>iPhone 12 mini 64GB</name>
+				<price>55490</price>
+				<oldprice>150000</oldprice>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-1.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-2.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-3.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-4.jpg</picture>
+				<picture>https://pixs.ru/images/2020/10/21/iPhone-12-SINII-5.jpg</picture>
+				<description><![CDATA[<h3>1</h3>
+]]></description>
+				<param name="Цвет корпуса">Blue/Синий </param>
+				<param name="Встроеннаяпамять">64GB</param>
+				<param name="Процессор">A14 Bionic</param>
+				<param name="Год релиза">2020</param>
+				<param name="Диагональ дисплея">5,4"</param>
+				<param name="Технология дисплея">Multi-Touch OLED матрица с технологией True Tone. Разрешение 2340x1080/ Яркость 625 кд/м²/ Контрастность 2000000:1/ Плотность 476 пикс/дюйм.</param>
+				<param name="Камера">12 Мп с цифровым 5х и оптическим 4х зумом. Автоматическая оптическая стабилизация изображения. Технология LIDAR. Диафрагма широкоугольная: ƒ/1.6, сверхшироко­угольная: ƒ/2.4. Вспышка True Tone с функцией Slow Sync. Передовая система устранения эффекта красных глаз. Разрешение фронтальной камеры 12 Мп. Диафрагма фронтальной камеры ƒ/2.2.</param>
+				<param name="Видео">HDR‑видео в стандарте Dolby Vision до 60 кд/с, 4K с частотой 24, 30 или 60 кд/с, HD-видео 1080p с частотой 30 или 60 кд/с, HD-видео 720p с частотой 30 кд/с. Замедленное HD-видео 1080р c частотой 120 или 240 кд/с. Цифровой 3х и оптический 4x зум. Вспышка True Tone. Кинематографическая стабилизация видео (4K, 1080p и 720p). Следящий автофокус. Функция QuickTake. Аудиозум. Разрешение видео фронтальной камеры 4K с частотой 24, 30 или 60 кд/с.</param>
+				<param name="SIM-карта">nano-SIM + eSIM</param>
+				<param name="Сотовая сеть">5G (sub‑6 GHz)/Gigabit Class LTE/GSM/EDGE</param>
+				<param name="Беспроводная сеть">Wi-Fi (802.11​ax)/Bluetooth 5.0/NFC с поддержкой режима считывания</param>
+				<param name="Навигация">GPS/ГЛОНАСС/Galileo/QZSS/BeiDou</param>
+				<param name="Порты и разъемы">Lightning</param>
+				<param name="Беспроводная зарядка">MagSafe/Qi</param>
+				<param name="Aккумулятор">Li-lon</param>
+				<param name="Мощность адаптера">До 20Вт</param>
+				<param name="Время автономной работы">Воспроизведение видео до 15 часов. Воспроизведение аудио до 50 часов.</param>
+				<param name="Датчики">Face ID, трёхосевой гироскоп, акселерометр, барометр, датчик внешней освещённости, датчик приближения</param>
+				<param name="Материал корпуса">Алюминий</param>
+				<param name="Габариты">131,5мм/64,2мм/7,4мм</param>
+				<param name="Вес">133г</param>
+				<param name="Защита от воды">До 30 минут при погружении до 6 метров</param>
+				<param name="В комплекте">Кабель Lightning/USB-C</param>
+				<param name="Артикул">0531</param>
 			</offer>
 		</offers>
 	</shop>
